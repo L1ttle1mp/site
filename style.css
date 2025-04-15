@@ -1,0 +1,48 @@
+body{
+    background: linear-gradient(to top, #A848F7, #E8E3FA);
+    }
+    h1{
+        text-align: center;
+        font-size: 40px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    h2{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 20px
+    }
+    nav{
+        text-align: center;
+        font-size: 40px;}
+.jhei{
+    width: 800px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    margin: 30px;
+}
+
+li{
+    list-style-type:none;
+    margin: 0px;
+    display: inline;
+    padding: 10px;
+}
+.hwin{
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    height: 600px;
+}
+button{
+    font-size: 30px;
+    border: 10px;
+    border-radius: 20px;
+    color: red;
+}
+button:hover{
+    color: #E8E3FA;
+    background-color: crimson;
+}
